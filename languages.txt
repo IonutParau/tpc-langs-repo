@@ -3,3 +3,4 @@ Deutsch
 Русский
 Türkçe
 Gaeilge
+Estonian
