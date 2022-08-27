@@ -80,7 +80,7 @@
     "select_blueprints": "Planları seç",
     "blueprint_name_and_description": "Plan ismi ve açıklaması",
     "change_name_and_description": "İsim ve açıklamayı değiştir",
-    "disconnected_desc": "Atildiniz. Bu ya sunucunun kapandığı, ya da internetinizin koptuğu anlamına gelir.",
+    "disconnected_desc": "Atıldınız. Bu ya sunucunun kapandığı, ya da internetinizin koptuğu anlamına gelir.",
     "add_to_builtin": "Hazır planlara ekle",
     "enable_all": "Hepsini aktifleştir",
     "reload": "Yenile",
